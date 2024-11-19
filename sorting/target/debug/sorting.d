@@ -1,0 +1,1 @@
+/home/taven/Documents/code/rustPractice/rustSortingPractice/sorting/target/debug/sorting: /home/taven/Documents/code/rustPractice/rustSortingPractice/sorting/src/main.rs /home/taven/Documents/code/rustPractice/rustSortingPractice/sorting/src/sorting.rs
